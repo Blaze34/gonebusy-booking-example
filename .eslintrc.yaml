@@ -17,7 +17,7 @@ rules:
     - SwitchCase: 1
   max-len:
     - 2
-    - code: 100
+    - code: 120
       tabWidth: 4
   new-cap: 0
   no-console: 0
