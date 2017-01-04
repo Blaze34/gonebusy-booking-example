@@ -1,12 +1,16 @@
-.site-detail h1 {
+.site-details h1 {
   margin-bottom: 30px;
 }
 
-.service-title {
-  font-size: 24px;
-  margin-top: 28px;
+.site-content {
+  margin-top: 20px;
 }
 
-.service-price {
+.site-content .service-title {
+  font-size: 24px;
+  margin-top: 8px;
+}
+
+.site-content .pricing-model-details {
   font-size: 32px;
 }
